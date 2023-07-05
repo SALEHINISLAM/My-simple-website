@@ -6,4 +6,13 @@ div{
     border-left:5px dotted black;
     border-right: 20px solid aqua;
 }
-
+li{
+    text-align: left;
+    list-style-type: "\1F44D";
+    font-size: large;
+    font-weight: 900;
+}
+#head{
+    font-size: xx-large;
+    font-weight: 800;
+}
