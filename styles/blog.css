@@ -2,4 +2,8 @@ div{
     background-color:antiquewhite ;
     padding: 10px;
     margin: 15px;
+    border-radius: 0px 15px 15px 0px;
+    border-left:5px dotted black;
+    border-right: 20px solid aqua;
 }
+
